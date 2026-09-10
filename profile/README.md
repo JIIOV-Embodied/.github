@@ -1,5 +1,7 @@
+<h1 align="center">JIIOV Embodied Intelligence</h1>
+
 <p align="center">
-  <strong>The Embodied Intelligence team at JIIOV.</strong><br/>
+  <strong>A specialized research and engineering team within JIIOV</strong><br/>
   Building practical foundations for intelligent perception and interaction.
 </p>
 
