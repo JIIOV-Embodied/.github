@@ -1,29 +1,32 @@
-<h1 align="center">JIIOV Embodied Intelligence</h1>
+<h1 align="center">🦾 JIIOV Embodied Intelligence</h1>
 
 <p align="center">
   <strong>A specialized research and engineering team within JIIOV</strong><br/>
-  Building practical foundations for intelligent perception and interaction.
+  Building practical foundations for intelligent perception and interaction.<br/>
+  <sub>极豪科技旗下的具身智能研发团队，专注于智能感知与交互技术。</sub>
 </p>
 
 <p align="center">
   <a href="https://simplehand.github.io/">SimpleHand</a> ·
-  <a href="https://arxiv.org/abs/2403.01813">Paper</a> ·
-  <a href="https://github.com/patienceFromZhou/simpleHand">Code</a> ·
+  <a href="https://arxiv.org/html/2609.08607v1">GOLF</a> ·
+  <a href="https://github.com/patienceFromZhou/simpleHand">SimpleHand Code</a> ·
   <a href="https://en.jiiov.com/">JIIOV Technology</a>
 </p>
 
 ---
 
-### What we work on
+### 🔬 What we work on · 研究方向
 
 We are a specialized research and engineering team within JIIOV. We develop practical perception and interaction systems that connect **AI with real-world sensors and devices**. Our work spans:
+
+我们是极豪科技旗下的专业研发团队，致力于连接 **AI、真实世界传感器与智能设备**。
 
 - **3D hand perception** — pose estimation, mesh reconstruction, and tracking
 - **Dexterous interaction** — robust understanding of fine-grained finger motion
 - **Efficient models** — accurate, real-time inference for edge and XR devices
 - **Embodied data** — datasets, evaluation, and learning systems grounded in the physical world
 
-### Featured work
+### ⭐ Featured work · 代表工作
 
 #### [SimpleHand](https://simplehand.github.io/) — A Simple Baseline for Efficient Hand Mesh Reconstruction
 
@@ -31,15 +34,28 @@ We are a specialized research and engineering team within JIIOV. We develop prac
 
 SimpleHand is a simple and effective baseline for monocular 3D hand mesh reconstruction. It combines a lightweight token generator with a cascaded mesh regressor, achieving a strong balance between accuracy and real-time efficiency—and is designed to transfer easily across mainstream backbones and datasets.
 
-### Highlights
+SimpleHand 是一个简洁高效的单目三维手部网格重建基线，在精度、实时效率和可迁移性之间取得了良好平衡。
+
+#### [GOLF](https://arxiv.org/html/2609.08607v1) — Global Observation with Local Focus for Calibration-Aware Stereo Interaction Field Estimation
+
+**First-place solution, HANDS@ECCV 2026 SHOW3D Challenge** · [Paper](https://arxiv.org/abs/2609.08607)
+
+GOLF estimates 3D hand–object interaction fields from synchronized egocentric stereo views. It combines dense global context, locally sampled hand and object evidence, and calibration-aware stereo geometry, securing first place in the SHOW3D Challenge.
+
+GOLF 基于同步的第一人称双目视图估计三维手物交互场，融合全局上下文、局部手物特征与相机标定几何，获得 SHOW3D 挑战赛第一名。
+
+### 🏆 Highlights · 主要成果
 
 - **CVPR 2024** — SimpleHand accepted as *A Simple Baseline for Efficient Hand Mesh Reconstruction*
-- **1st place, ICCV 2023 Hands Workshop** — AssemblyHands Track for egocentric 3D hand joint reconstruction · [Technical report](https://arxiv.org/abs/2310.04769)
-- **1st place, ECCV 2024 Hands Workshop** — Hand pose estimation and hand shape estimation tracks for multiview egocentric hand tracking · [Technical report](https://arxiv.org/abs/2409.19362)
+- 🥇 **1st place, ICCV 2023 Hands Workshop** — AssemblyHands Track for egocentric 3D hand joint reconstruction · [Technical report](https://arxiv.org/abs/2310.04769)
+- 🥇 **1st place, ECCV 2024 Hands Workshop** — Hand pose estimation and hand shape estimation tracks for multiview egocentric hand tracking · [Technical report](https://arxiv.org/abs/2409.19362)
+- 🥇 **1st place, HANDS@ECCV 2026** — SHOW3D Interaction Field Estimation Challenge · [Technical report](https://arxiv.org/abs/2609.08607)
 
-### Open source
+### 🚀 Open source · 开源计划
 
 This organization is the open-source home of JIIOV's Embodied Intelligence team. It presents the work of our team rather than the full scope of JIIOV. We are organizing prior research and preparing more datasets, models, demos, and engineering tools for release.
+
+本组织是极豪科技具身智能团队的开源主页，仅展示本团队的工作，并不代表极豪科技的全部业务。我们正在整理既有研究成果，并将逐步开放更多数据集、模型、演示与工程工具。
 
 <p align="center">
   <sub>Research should be rigorous. Systems should be useful. Interaction should feel natural.</sub>
