@@ -1,5 +1,6 @@
 <p align="center">
-  <strong>Building the data, perception, and learning foundations for embodied intelligence.</strong>
+  <strong>The Embodied Intelligence team at JIIOV.</strong><br/>
+  Building practical foundations for intelligent perception and interaction.
 </p>
 
 <p align="center">
@@ -13,7 +14,7 @@
 
 ### What we work on
 
-We develop practical perception and interaction systems that connect **AI with real-world sensors and devices**. Our work spans:
+We are a specialized research and engineering team within JIIOV. We develop practical perception and interaction systems that connect **AI with real-world sensors and devices**. Our work spans:
 
 - **3D hand perception** — pose estimation, mesh reconstruction, and tracking
 - **Dexterous interaction** — robust understanding of fine-grained finger motion
@@ -36,7 +37,7 @@ SimpleHand is a simple and effective baseline for monocular 3D hand mesh reconst
 
 ### Open source
 
-This organization is the new open-source home for JIIOV's embodied-intelligence work. We are organizing prior research and preparing more datasets, models, demos, and engineering tools for release.
+This organization is the open-source home of JIIOV's Embodied Intelligence team. It presents the work of our team rather than the full scope of JIIOV. We are organizing prior research and preparing more datasets, models, demos, and engineering tools for release.
 
 <p align="center">
   <sub>Research should be rigorous. Systems should be useful. Interaction should feel natural.</sub>
