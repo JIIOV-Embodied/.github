@@ -49,6 +49,7 @@ GOLF 基于同步的第一人称双目视图估计三维手物交互场，融合
 - **CVPR 2024** — SimpleHand accepted as *A Simple Baseline for Efficient Hand Mesh Reconstruction*
 - 🥇 **1st place, ICCV 2023 Hands Workshop** — AssemblyHands Track for egocentric 3D hand joint reconstruction · [Technical report](https://arxiv.org/abs/2310.04769)
 - 🥇 **1st place, ECCV 2024 Hands Workshop** — Hand pose estimation and hand shape estimation tracks for multiview egocentric hand tracking · [Technical report](https://arxiv.org/abs/2409.19362)
+- 🥈 **2nd place, CVPR 2026 GigaBrain Challenge** — JV0 on the RoboChallenge real-robot track · [Leaderboard](https://robochallenge.ai/leaderboard) · [Coverage](https://mp.weixin.qq.com/s/Yee9U-B9AY_6qJJmGd2zMA)
 - 🥇 **1st place, HANDS@ECCV 2026** — SHOW3D Interaction Field Estimation Challenge · [Technical report](https://arxiv.org/abs/2609.08607)
 
 ### 🚀 Open source · 开源计划
