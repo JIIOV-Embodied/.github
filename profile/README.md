@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://simplehand.github.io/">SimpleHand</a> ·
-  <a href="https://arxiv.org/html/2609.08607v1">GOLF</a> ·
+  <a href="https://github.com/JIIOV-Embodied/GOLF">GOLF Code</a> ·
   <a href="https://github.com/patienceFromZhou/simpleHand">SimpleHand Code</a> ·
   <a href="https://www.jiiov.com/">JIIOV Technology</a>
 </p>
@@ -37,7 +37,7 @@ SimpleHand 是一个简洁高效的单目三维手部网格重建基线，在精
 
 #### [GOLF](https://arxiv.org/html/2609.08607v1) — Global Observation with Local Focus for Calibration-Aware Stereo Interaction Field Estimation
 
-**First-place solution, HANDS@ECCV 2026 SHOW3D Challenge** · [Paper](https://arxiv.org/abs/2609.08607)
+**First-place solution, HANDS@ECCV 2026 SHOW3D Challenge** · [Paper](https://arxiv.org/abs/2609.08607) · [Code](https://github.com/JIIOV-Embodied/GOLF)
 
 GOLF estimates 3D hand–object interaction fields from synchronized egocentric stereo views. It combines dense global context, locally sampled hand and object evidence, and calibration-aware stereo geometry, securing first place in the SHOW3D Challenge.
 
